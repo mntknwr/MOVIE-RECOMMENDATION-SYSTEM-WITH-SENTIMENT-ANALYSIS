@@ -1,1 +1,1 @@
-These are the preprocessing(.pynb) files.
+These are the preprocessing(.ipynb) files.
